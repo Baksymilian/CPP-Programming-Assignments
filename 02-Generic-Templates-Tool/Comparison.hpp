@@ -52,7 +52,7 @@ Point<T> Comparison<T>::policzSrodek() const {
 }
 template <typename T>
 T Comparison<T>::policzObwod() const {
-    return 3,1415 * solution_;
+    return 3.1415 * solution_;
 }
 template <typename T>
 void Comparison<T>::pokazWszystko(){
